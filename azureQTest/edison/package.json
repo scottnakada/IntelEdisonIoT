@@ -1,0 +1,14 @@
+{
+  "name": "edison",
+  "version": "1.0.0",
+  "description": "Simulate receiving commands on the edison from an Azure queue",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott M. Nakada",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^0.10.6"
+  }
+}

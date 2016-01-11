@@ -1,0 +1,19 @@
+{
+  "name": "blink-j5",
+  "version": "1.0.0",
+  "description": "Blink an LED using Johnny 5 module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott M. Nakada",
+  "license": "ISC",
+  "devDependencies": {
+    "candyman": "^0.1.86",
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "edison-io": "^0.8.18",
+    "johnny-five": "^0.8.92"
+  }
+}

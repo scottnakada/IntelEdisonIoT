@@ -1,0 +1,123 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "initialAutoPluginCount": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "config.js": {
+        "previousModTime": 1444847960345,
+        "modified": 1444847960345,
+        "seen": true,
+        "name": "config.js"
+      },
+      "icon.png": {
+        "previousModTime": 1444519593074,
+        "modified": 1444519593074,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "IntelCylonTweet.xdk": {
+        "previousModTime": 1444939853988,
+        "modified": 1444939853988,
+        "seen": true,
+        "name": "IntelCylonTweet.xdk"
+      },
+      "IntelCylonTweet.xdke": {
+        "previousModTime": 1445500156547,
+        "modified": 1445500156547,
+        "seen": true,
+        "name": "IntelCylonTweet.xdke"
+      },
+      "IntelCylonTweet_1.2.0.xdke_bak": {
+        "previousModTime": 1444939853798,
+        "modified": 1444939853798,
+        "seen": true,
+        "name": "IntelCylonTweet_1.2.0.xdke_bak"
+      },
+      "IntelCylonTweet_1.2.0.xdk_bak": {
+        "previousModTime": 1444939853814,
+        "modified": 1444939853814,
+        "seen": true,
+        "name": "IntelCylonTweet_1.2.0.xdk_bak"
+      },
+      "main.js": {
+        "previousModTime": 1445106685738,
+        "modified": 1445106685738,
+        "seen": true,
+        "name": "main.js"
+      },
+      "mainAPI.js": {
+        "previousModTime": 1444524220121,
+        "modified": 1444524220121,
+        "seen": true,
+        "name": "mainAPI.js"
+      },
+      "mainTweet.js": {
+        "previousModTime": 1445051202458,
+        "modified": 1445051202458,
+        "seen": true,
+        "name": "mainTweet.js"
+      },
+      "package.json": {
+        "previousModTime": 1444945246137,
+        "modified": 1444945246137,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1444519593074,
+        "modified": 1444519593074,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1444939853921,
+        "modified": 1444939853921,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "mainTweetAPI.js": {
+        "previousModTime": 1444973110229,
+        "modified": 1444973110229,
+        "seen": true,
+        "name": "mainTweetAPI.js"
+      }
+    },
+    "boardFileStatus": {
+      "config.js": {
+        "previousModTime": 1445500281625
+      },
+      "icon.png": {
+        "previousModTime": 1445500281625
+      },
+      "IntelCylonTweet_1.2.0.xdk_bak": {
+        "previousModTime": 1445500281625
+      },
+      "main.js": {
+        "previousModTime": 1445500281625
+      },
+      "mainAPI.js": {
+        "previousModTime": 1445500281625
+      },
+      "mainTweet.js": {
+        "previousModTime": 1445500281625
+      },
+      "package.json": {
+        "previousModTime": 1445500281625
+      },
+      "README.md": {
+        "previousModTime": 1445500281625
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1445500281625
+      },
+      "mainTweetAPI.js": {
+        "previousModTime": 1445500281625
+      }
+    }
+  }
+}

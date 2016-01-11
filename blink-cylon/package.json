@@ -1,0 +1,21 @@
+{
+  "name": "blink-cylon",
+  "version": "1.0.0",
+  "description": "Blink an LED using the Cylon.js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott M. Nakada",
+  "license": "ISC",
+  "devDependencies": {
+    "candyman": "^0.1.86",
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-gpio": "^0.27.0",
+    "cylon-i2c": "^0.23.0",
+    "cylon-intel-iot": "^0.8.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "commander",
+  "version": "1.0.0",
+  "description": "Send commands to an Azure queue for Intel Edison",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott M. Nakada",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^0.10.6"
+  }
+}

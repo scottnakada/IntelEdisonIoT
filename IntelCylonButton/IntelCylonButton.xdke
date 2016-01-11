@@ -1,0 +1,68 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "initialAutoPluginCount": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1444012437436,
+        "modified": 1444012437436,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "IntelCylonButton.xdk": {
+        "previousModTime": 1444939871309,
+        "modified": 1444939871309,
+        "seen": true,
+        "name": "IntelCylonButton.xdk"
+      },
+      "IntelCylonButton.xdke": {
+        "previousModTime": 1445494978588,
+        "modified": 1445494978588,
+        "seen": true,
+        "name": "IntelCylonButton.xdke"
+      },
+      "IntelCylonButton_1.2.0.xdke_bak": {
+        "previousModTime": 1444939871180,
+        "modified": 1444939871180,
+        "seen": true,
+        "name": "IntelCylonButton_1.2.0.xdke_bak"
+      },
+      "IntelCylonButton_1.2.0.xdk_bak": {
+        "previousModTime": 1444939871178,
+        "modified": 1444939871178,
+        "seen": true,
+        "name": "IntelCylonButton_1.2.0.xdk_bak"
+      },
+      "main.js": {
+        "previousModTime": 1445390744724,
+        "modified": 1445390744724,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1444012594875,
+        "modified": 1444012594875,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1444012437435,
+        "modified": 1444012437435,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1444939871292,
+        "modified": 1444939871292,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
